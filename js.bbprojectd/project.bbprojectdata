@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>95A0AA73-D37A-49D7-A158-FC0831BD8E81</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>95A0AA73-D37A-49D7-A158-FC0831BD8E81</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va4QCAAAAAAQQMAAAAHXJQQSSLcwUBSm4RySaGO91
+				qzrFKNJYjLMouH1ddC+SgAEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAEAAAAAQEAAGJsdWUCAAAAAQEA
+				AGpzAAAMAAAAAQYAABAAAAAgAAAALAAAAAgAAAAEAwAA
+				4WYAAAAAAAAIAAAABAMAAIuOAAAAAAAACAAAAAQDAABk
+				YlEBAAAAAAwAAAABBgAATAAAAFwAAABsAAAACAAAAAAE
+				AABBxPCbFvfi/RgAAAABAgAAAgAAAAAAAAAPAAAAAAAA
+				AAAAAAAAAAAACAAAAAQDAAABAAAAAAAAAAQAAAADAwAA
+				9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2lu
+				dG9zaCBIRAgAAAAEAwAAAGBGZDoAAAAIAAAAAAQAAEHE
+				4YKUAAAAJAAAAAEBAABCNDRDM0U3OS04RUFCLTQ1ODUt
+				ODlGQi03ODZEQzZDNUUxRDUYAAAAAQIAAIEAAAABAAAA
+				7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAAB
+				BQAAzAAAAP7///8BAAAAAAAAABAAAAAEEAAAOAAAAAAA
+				AAAFEAAAfAAAAAAAAAAQEAAAoAAAAAAAAABAEAAAkAAA
+				AAAAAAACIAAAbAEAAAAAAAAFIAAA3AAAAAAAAAAQIAAA
+				7AAAAAAAAAARIAAAIAEAAAAAAAASIAAAAAEAAAAAAAAT
+				IAAAEAEAAAAAAAAgIAAATAEAAAAAAAAwIAAAeAEAAAAA
+				AAABwAAAwAAAAAAAAAARwAAAIAAAAAAAAAASwAAA0AAA
+				AAAAAAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/blue/js/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>js</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
