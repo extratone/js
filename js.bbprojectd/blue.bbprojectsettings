@@ -5,7 +5,7 @@
 	<key>EmbeddedEditorHidden:blue</key>
 	<false/>
 	<key>ExpandedEditorWidth:blue:displays([(0, 0), (1920, 1080)])</key>
-	<integer>1708</integer>
+	<integer>1709</integer>
 	<key>ExpandedItems:blue</key>
 	<array>
 		<string>95A0AA73-D37A-49D7-A158-FC0831BD8E81</string>
@@ -17,7 +17,7 @@
 	<key>OpenDocumentsExpanded</key>
 	<true/>
 	<key>OpenDocumentsSplitterProportion</key>
-	<real>0.75073028237585193</real>
+	<real>0.75103305785123964</real>
 	<key>ProjectItemsExpanded</key>
 	<true/>
 	<key>ProjectViewVisible</key>
@@ -33,8 +33,8 @@
 	<key>ToolbarVisible:blue</key>
 	<false/>
 	<key>ViewSplitterPosition:blue</key>
-	<real>0.11041666567325592</real>
+	<real>0.10989583283662796</real>
 	<key>WindowFrame:blue:displays([(0, 0), (1920, 1080)])</key>
-	<string>rect(53,0,1080,1920)</string>
+	<string>rect(53,0,1021,1920)</string>
 </dict>
 </plist>
